@@ -21,8 +21,8 @@ _cmake-modules-webos_:
 - cmake 2.8.7
 - make (any version)
 
-How to Build on Linux
-=====================
+How to Build on Linux/FreeBSD
+=============================
 
 ## Building
 
